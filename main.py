@@ -1,3 +1,5 @@
+#Pandas
+
 import pandas as pd
 from twilio.rest import Client
 
@@ -30,4 +32,3 @@ for mes in lista_meses:
 # Se for maior que 55 mil -> Envia um SMS com o Nome, o mês e as vendas do vendedor
 
 # Caso não seja maior que 55.000 não fazer nada
-
