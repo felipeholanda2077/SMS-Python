@@ -1,4 +1,4 @@
-#Pandas Blinioteca
+#Pandas Blibioteca
 
 import pandas as pd
 from twilio.rest import Client
