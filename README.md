@@ -16,6 +16,8 @@
 
 <p align="center">Um projeto feito em python para enviar arquivos de SMS para o celular desejado, sobre informações de mercado e empresárias.</p>
 
+<br><br>
+
   ### Tecnologias 🚀
 
   As seguintes ferramentas foram usadas na construção do projeto:
