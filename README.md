@@ -10,8 +10,9 @@
 <a href="#Tecnologias-">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
    
+<h1 align="center">Sobre o Projeto</h3>
 
-<h1 align="center">SMS-Python</h1>
+<h3 align="center">SMS-Python</h3>
 
 <p align="center">Um projeto feito em python para enviar arquivos de SMS para o celular desejado, sobre informações de mercado e empresárias.</p>
 
