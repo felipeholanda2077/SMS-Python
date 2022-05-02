@@ -20,14 +20,12 @@
 
   As seguintes ferramentas foram usadas na construção do projeto:
 
-  - [x] **Java**
-  - [x] **C++**
-  - [x] **JavaScript**
+  - [x] **Python**
 
   #### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
-  - [**React Native**](https://reactnative.dev/)
+  - [**PyCharme**]()
 
 <br>
 
